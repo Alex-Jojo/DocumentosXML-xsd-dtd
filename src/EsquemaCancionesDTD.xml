@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE Canciones SYSTEM "Elementos_Canciones.dtd">
+<Canciones>
+    <Cancion>
+        <Duracion>4:38</Duracion>
+        <AnioLanzamiento>2014</AnioLanzamiento>
+        <Detalles>
+            <TItulo>Habla tu espejo</TItulo>
+            <Compositores>
+                <Compositor>
+                    <Nombre>Roberto</Nombre>
+                    <Apellido>Musso</Apellido>
+                </Compositor>
+            </Compositores>
+            <Productores>
+                <Productor>
+                    <Nombre>Juan</Nombre>
+                    <Apellido>Campodónico</Apellido>
+                </Productor>
+            </Productores>
+            <Sello> Warner Music Argentina S.A.</Sello>
+            <Artista>El cuarteto de Nos</Artista>
+        </Detalles>
+    </Cancion>
+    <Cancion>
+        <Duracion>4:47</Duracion>
+        <AnioLanzamiento>2008</AnioLanzamiento>
+        <Detalles>
+            <TItulo>Give it 2 me</TItulo>
+            <Compositores>
+                <Compositor>
+                    <Nombre>Pharell</Nombre>
+                    <Apellido>Williams</Apellido>
+                </Compositor>
+            </Compositores>
+            <Productores>
+                <Productor>
+                    <Nombre>Pharell</Nombre>
+                    <Apellido>Williams</Apellido>
+                </Productor>
+            </Productores>
+            <Sello>Waner Bros. Records</Sello>
+            <Artista>Madonna</Artista>
+        </Detalles>
+    </Cancion>
+    <Cancion>
+        <Duracion>3:51</Duracion>
+        <AnioLanzamiento>2012</AnioLanzamiento>
+        <Detalles>
+            <TItulo>Camara de faltas</TItulo>
+            <Compositores>
+                <Compositor>
+                    <Nombre>Luis Humberto</Nombre>
+                    <Apellido>Navejas</Apellido>
+                </Compositor>
+            </Compositores>
+            <Productores>
+                <Productor>
+                    <Nombre>Julian</Nombre>
+                    <Apellido>Navejas</Apellido>
+                </Productor>
+            </Productores>
+            <Sello>Universal Music Mexico</Sello>
+            <Artista>Enjambre</Artista>
+        </Detalles>
+    </Cancion>
+</Canciones>
